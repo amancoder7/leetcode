@@ -48,6 +48,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amancoder7/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2405-optimal-partition-of-string](https://github.com/amancoder7/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3362-zero-array-transformation-iii](https://github.com/amancoder7/leetcode/tree/master/3362-zero-array-transformation-iii) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@
 | ------- |
 | [1328-break-a-palindrome](https://github.com/amancoder7/leetcode/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2405-optimal-partition-of-string](https://github.com/amancoder7/leetcode/tree/master/2405-optimal-partition-of-string) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2405-optimal-partition-of-string](https://github.com/amancoder7/leetcode/tree/master/2405-optimal-partition-of-string) |
 ## Counting
 |  |
 | ------- |
