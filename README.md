@@ -8,6 +8,7 @@
 | [0455-assign-cookies](https://github.com/amancoder7/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/amancoder7/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/amancoder7/leetcode/tree/master/0948-bag-of-tokens) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/amancoder7/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -42,6 +43,7 @@
 | [0881-boats-to-save-people](https://github.com/amancoder7/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/amancoder7/leetcode/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/amancoder7/leetcode/tree/master/0991-broken-calculator) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/amancoder7/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/amancoder7/leetcode/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/amancoder7/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/amancoder7/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/amancoder7/leetcode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 ## String
