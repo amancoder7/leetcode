@@ -11,6 +11,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/amancoder7/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/amancoder7/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/amancoder7/leetcode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -23,6 +24,7 @@
 | [0455-assign-cookies](https://github.com/amancoder7/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/amancoder7/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/amancoder7/leetcode/tree/master/0948-bag-of-tokens) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/amancoder7/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/amancoder7/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3362-zero-array-transformation-iii](https://github.com/amancoder7/leetcode/tree/master/3362-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
@@ -104,4 +106,20 @@
 |  |
 | ------- |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amancoder7/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Binary Search
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/amancoder7/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Stack
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/amancoder7/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/amancoder7/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/amancoder7/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
