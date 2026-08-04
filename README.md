@@ -48,6 +48,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amancoder7/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amancoder7/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/amancoder7/leetcode/tree/master/2405-optimal-partition-of-string) |
@@ -79,11 +80,13 @@
 | ------- |
 | [1328-break-a-palindrome](https://github.com/amancoder7/leetcode/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amancoder7/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2405-optimal-partition-of-string](https://github.com/amancoder7/leetcode/tree/master/2405-optimal-partition-of-string) |
 ## Math
 |  |
 | ------- |
 | [0991-broken-calculator](https://github.com/amancoder7/leetcode/tree/master/0991-broken-calculator) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amancoder7/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +100,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amancoder7/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
