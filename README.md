@@ -13,6 +13,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amancoder7/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/amancoder7/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/amancoder7/leetcode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amancoder7/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -50,6 +51,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/amancoder7/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amancoder7/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amancoder7/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -64,6 +66,7 @@
 | [0948-bag-of-tokens](https://github.com/amancoder7/leetcode/tree/master/0948-bag-of-tokens) |
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/amancoder7/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amancoder7/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3362-zero-array-transformation-iii](https://github.com/amancoder7/leetcode/tree/master/3362-zero-array-transformation-iii) |
 ## Prefix Sum
