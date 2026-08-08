@@ -9,6 +9,7 @@
 | [0881-boats-to-save-people](https://github.com/amancoder7/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/amancoder7/leetcode/tree/master/0948-bag-of-tokens) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/amancoder7/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amancoder7/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amancoder7/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -49,6 +50,7 @@
 | [0991-broken-calculator](https://github.com/amancoder7/leetcode/tree/master/0991-broken-calculator) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/amancoder7/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/amancoder7/leetcode/tree/master/1328-break-a-palindrome) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amancoder7/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/amancoder7/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -66,6 +68,7 @@
 | [0455-assign-cookies](https://github.com/amancoder7/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/amancoder7/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/amancoder7/leetcode/tree/master/0948-bag-of-tokens) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amancoder7/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1710-maximum-units-on-a-truck](https://github.com/amancoder7/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/amancoder7/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -99,11 +102,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amancoder7/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/amancoder7/leetcode/tree/master/2405-optimal-partition-of-string) |
 ## Counting
 |  |
 | ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amancoder7/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Counting Sort
 |  |
