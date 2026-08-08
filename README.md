@@ -18,6 +18,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amancoder7/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/amancoder7/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/amancoder7/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3362-zero-array-transformation-iii](https://github.com/amancoder7/leetcode/tree/master/3362-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amancoder7/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/amancoder7/leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/amancoder7/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3362-zero-array-transformation-iii](https://github.com/amancoder7/leetcode/tree/master/3362-zero-array-transformation-iii) |
 ## Sorting
 |  |
@@ -68,10 +70,12 @@
 | [1833-maximum-ice-cream-bars](https://github.com/amancoder7/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/amancoder7/leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amancoder7/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/amancoder7/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3362-zero-array-transformation-iii](https://github.com/amancoder7/leetcode/tree/master/3362-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/amancoder7/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3362-zero-array-transformation-iii](https://github.com/amancoder7/leetcode/tree/master/3362-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
@@ -125,4 +129,8 @@
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amancoder7/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Polygons
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/amancoder7/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
