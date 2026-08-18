@@ -14,29 +14,12 @@
  * }
  */
 class Solution {
-    boolean isonepresent(TreeNode node){
-        if(node==null){
-           return false;
-        }
-
-        if(node.val==1){
-            return true;
-        }
-        return (isonepresent(node.left)||isonepresent(node.right));
-    }
     public TreeNode pruneTree(TreeNode root) {
          if(root==null){
             return null;
          }
-         if(!isonepresent(root.left)){
-            root.left=null;
-         }
-         if(!isonepresent(root.right)){
-           root.right=null;  
-         }
-
-         pruneTree(root.left);
-         pruneTree(root.right);
+         root.left=pruneTree(root.left);
+         root.right=pruneTree(root.right);
 
          if(root.left==null && root.right==null && root.val==0){
              return null;
