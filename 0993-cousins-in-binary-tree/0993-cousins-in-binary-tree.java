@@ -16,10 +16,9 @@
 class Solution {
      TreeNode x_parant=null;
      TreeNode y_parant=null;
-     TreeNode parant=null;
      int x_depth=-1;
      int y_depth=-1;
-     void check(TreeNode root,int x,int y,int depth){
+     void check(TreeNode root,int x,int y,int depth,TreeNode parant){
         if(root==null){
             return;
         }
@@ -32,16 +31,13 @@ class Solution {
             y_parant=parant;
             y_depth=depth;
         }
-          parant=root;
-       check(root.left,x,y,depth+1);
-          parant=root;
-       check(root.right,x,y,depth+1);
+       check(root.left,x,y,depth+1,root);
+       check(root.right,x,y,depth+1,root);
        return;
 
      }
     public boolean isCousins(TreeNode root, int x, int y) {
-        parant=root;
-        check(root,x,y,1);
+        check(root,x,y,1,root);
         if(x_parant.val!=y_parant.val && x_depth==y_depth){
              return true;
         }
