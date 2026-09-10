@@ -8,6 +8,7 @@
 | [0435-non-overlapping-intervals](https://github.com/amancoder7/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amancoder7/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/amancoder7/leetcode/tree/master/0881-boats-to-save-people) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-bag-of-tokens](https://github.com/amancoder7/leetcode/tree/master/0948-bag-of-tokens) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/amancoder7/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amancoder7/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amancoder7/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amancoder7/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/amancoder7/leetcode/tree/master/2405-optimal-partition-of-string) |
@@ -160,6 +162,7 @@
 | [0687-longest-univalue-path](https://github.com/amancoder7/leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/amancoder7/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/amancoder7/leetcode/tree/master/0814-binary-tree-pruning) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -205,12 +208,14 @@
 | [0687-longest-univalue-path](https://github.com/amancoder7/leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/amancoder7/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/amancoder7/leetcode/tree/master/0814-binary-tree-pruning) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
