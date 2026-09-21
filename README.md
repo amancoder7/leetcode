@@ -158,6 +158,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amancoder7/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amancoder7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/amancoder7/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/amancoder7/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/amancoder7/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amancoder7/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -180,6 +181,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amancoder7/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amancoder7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/amancoder7/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/amancoder7/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amancoder7/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -210,6 +212,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amancoder7/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amancoder7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/amancoder7/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/amancoder7/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/amancoder7/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amancoder7/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/amancoder7/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/amancoder7/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/amancoder7/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
