@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/amancoder7/leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0435-non-overlapping-intervals](https://github.com/amancoder7/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amancoder7/leetcode/tree/master/0455-assign-cookies) |
@@ -107,6 +108,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/amancoder7/leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
