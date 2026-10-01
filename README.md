@@ -6,6 +6,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/amancoder7/leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/amancoder7/leetcode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/amancoder7/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amancoder7/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/amancoder7/leetcode/tree/master/0881-boats-to-save-people) |
@@ -183,6 +184,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amancoder7/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amancoder7/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/amancoder7/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/amancoder7/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amancoder7/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/amancoder7/leetcode/tree/master/0547-number-of-provinces) |
@@ -199,6 +201,7 @@
 | [0112-path-sum](https://github.com/amancoder7/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amancoder7/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/amancoder7/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/amancoder7/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amancoder7/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amancoder7/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -263,9 +266,14 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/amancoder7/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amancoder7/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/amancoder7/leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amancoder7/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
