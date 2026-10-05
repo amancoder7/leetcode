@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/amancoder7/leetcode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/amancoder7/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amancoder7/leetcode/tree/master/0455-assign-cookies) |
+| [0695-max-area-of-island](https://github.com/amancoder7/leetcode/tree/master/0695-max-area-of-island) |
 | [0881-boats-to-save-people](https://github.com/amancoder7/leetcode/tree/master/0881-boats-to-save-people) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancoder7/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-bag-of-tokens](https://github.com/amancoder7/leetcode/tree/master/0948-bag-of-tokens) |
@@ -191,6 +192,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amancoder7/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/amancoder7/leetcode/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/amancoder7/leetcode/tree/master/0695-max-area-of-island) |
 | [0814-binary-tree-pruning](https://github.com/amancoder7/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -204,6 +206,7 @@
 | [0200-number-of-islands](https://github.com/amancoder7/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amancoder7/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amancoder7/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0695-max-area-of-island](https://github.com/amancoder7/leetcode/tree/master/0695-max-area-of-island) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amancoder7/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -268,6 +271,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/amancoder7/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amancoder7/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/amancoder7/leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -276,4 +280,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amancoder7/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/amancoder7/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
